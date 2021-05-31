@@ -1,0 +1,23 @@
+{
+  "name": "max",
+  "version": "1.0.0",
+  "description": "yes sir",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxwillyc7/siaact.git"
+  },
+  "author": "maxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxwillyc7/siaact/issues"
+  },
+  "homepage": "https://github.com/maxwillyc7/siaact#readme"
+}
